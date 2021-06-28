@@ -11,10 +11,15 @@
 
 
 <h3 align="left">My work in Data Science field</h3>
+
 - Created multiple web apps
+
 - Kaggle notebook Master 
+
 - Data Analyst intern @Remonify - April'21-Present
+
 - Data Science intern @MachinelearningPlus - March'21
+
 - Some of my favorite repositories: 
    * [Document Classifier](https://github.com/dikshabhati1/Document-Classifier) 
    * [Brain MRI Classification and Segmentation](https://github.com/dikshabhati1/Brain-MRI-Segmentation) 
