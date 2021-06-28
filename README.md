@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diksha Bhati</h1>
 <h3 align="center">I love to do data science and machine learning related stuff.I play volleyball also</h3>
 
-- 🔭 I’m currently working on **NLP and CV**
+- 🔭 I’m currently working on **Image Captioning web app**
 
 - 👯 I’m looking to collaborate on **DS, ML, NLP, CV related projects and research work**
 
