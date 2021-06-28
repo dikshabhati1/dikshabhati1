@@ -9,6 +9,19 @@
 
 - 📫 How to reach me : **dikshab035@gmail.com**
 
+
+<h3 align="left">My work in Data Science field</h3>
+- Created multiple web apps
+- Kaggle notebook Master 
+- Data Analyst intern @Remonify - April'21-Present
+- Data Science intern @MachinelearningPlus - March'21
+- Some of my favorite repositories: 
+   * [Document Classifier](https://github.com/dikshabhati1/Document-Classifier) 
+   * [Brain MRI Classification and Segmentation](https://github.com/dikshabhati1/Brain-MRI-Segmentation) 
+   * [Song Lyrics Generator](https://github.com/dikshabhati1/song-lyrics-generator)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diksha-bhati-4078421b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diksha-bhati-4078421b4" height="30" width="40" /></a>
