@@ -10,7 +10,7 @@
 - 📫 How to reach me : **dikshab035@gmail.com**
 
 
-<h3 align="left">My work in Data Science field</h3>
+<h3 align="left">My work in Data Science field:</h3>
 
 - Created multiple web apps
 
