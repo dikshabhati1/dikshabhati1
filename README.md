@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Image Captioning web app**
 
-- 👯 I’m looking to collaborate on **DS, ML, NLP, CV related projects and research work**
+- 👯 I’m looking to collaborate on **DS, ML, NLP, CV related projects, competitions and research work**
 
 - 💬 Ask me about **anything, I am happy to help**
 
