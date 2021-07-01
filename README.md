@@ -16,9 +16,9 @@
 
 - Kaggle notebook Master 
 
-- Data Analyst intern @Remonify - April'21-Present
+- Data Analyst intern @Remonify - *April'21-June'21*
 
-- Data Science intern @MachinelearningPlus - March'21
+- Data Science intern @MachinelearningPlus - *March'21*
 
 - Some of my favorite repositories: 
    * [Document Classifier](https://github.com/dikshabhati1/Document-Classifier) 
