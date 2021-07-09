@@ -21,7 +21,7 @@
 - Data Science intern @MachinelearningPlus - *March'21*
 
 - Some of my favorite repositories: 
-   * [Image Captioning](https://github.com/dikshabhati1/Image-Captioning)
+   * [Image Captioning Web App](https://github.com/dikshabhati1/Image-Captioning)
    * [Document Classifier](https://github.com/dikshabhati1/Document-Classifier) 
    * [Brain MRI Classification and Segmentation](https://github.com/dikshabhati1/Brain-MRI-Segmentation) 
    * [Song Lyrics Generator](https://github.com/dikshabhati1/song-lyrics-generator)
