@@ -16,6 +16,8 @@
 
 - Kaggle notebook Master 
 
+- Associate Data Scientist @Celebal Technologies - *July'21-Present*
+
 - Data Analyst intern @Remonify - *April'21-June'21*
 
 - Data Science intern @MachinelearningPlus - *March'21*
